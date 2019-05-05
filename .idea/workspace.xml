@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0216d913-13d7-4dac-9952-757c07121b37" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AppiumDemo8_Android$pytest_for_test_xueqiu_TestXueqiu_test_sourch.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_sourch Coverage Results" MODIFIED="1556967760243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/AppiumDemo8_Android$pytest_for_test_xueqiu_TestXueqiu_test_search.coverage" NAME="pytest for test_xueqiu.TestXueqiu.test_search Coverage Results" MODIFIED="1556973701688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/testcase/test_xueqiu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#50#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/page/Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#51#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/page/BasePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding>
+                <element signature="e#49#92#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/page/Xueqiu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#49#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/driver/Appium.py" />
+        <option value="$PROJECT_DIR$/page/Sourch.py" />
+        <option value="$PROJECT_DIR$/page/BashPage.py" />
+        <option value="$PROJECT_DIR$/testcase/test_xueqiu.py" />
+        <option value="$PROJECT_DIR$/page/Xueqiu.py" />
+        <option value="$PROJECT_DIR$/page/BasePage.py" />
+        <option value="$PROJECT_DIR$/page/Search.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AppiumDemo8_Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumDemo8_Android_po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumDemo8_Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumDemo8_Android_po" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumDemo8_Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumDemo8_Android_po" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumDemo8_Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumDemo8_Android_po" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for testcase.test_xueqiu.TestXueqiu.test_search">
+    <configuration name="pytest for testcase.test_xueqiu.TestXueqiu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppiumDemo8_Android" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AppiumDemo8_Android_po/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_xueqiu.TestXueqiu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for testcase.test_xueqiu.TestXueqiu.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppiumDemo8_Android" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AppiumDemo8_Android_po/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_xueqiu.TestXueqiu.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for testcase.test_xueqiu.TestXueqiu.test_search" />
+        <item itemvalue="Python tests.pytest for testcase.test_xueqiu.TestXueqiu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0216d913-13d7-4dac-9952-757c07121b37" name="Default Changelist" comment="" />
+      <created>1556960251143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556960251143</updated>
+      <workItem from="1556960252508" duration="10437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_sourch - 2019.05.04 at 19h 02m 45s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_sourch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 19h 07m 56s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 19h 18m 39s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 19h 21m 32s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 19h 31m 16s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 19h 36m 38s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 19h 53m 55s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 20h 36m 50s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 20h 41m 20s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_xueqiu_TestXueqiu_test_search - 2019.05.04 at 20h 42m 06s.xml">
+      <configuration name="pytest for test_xueqiu.TestXueqiu.test_search" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10437000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="939" column="14" lean-forward="true" selection-start-line="939" selection-start-column="14" selection-end-line="939" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/driver/Appium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/page/Xueqiu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#49#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/page/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#49#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/page/Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#51#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppiumDemo8_Android_po/testcase/test_xueqiu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#50#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
